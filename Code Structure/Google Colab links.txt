@@ -1,0 +1,2 @@
+CapsuleNet: https://colab.research.google.com/drive/1pDQ4xTUhj3MzL2jsi9eGm2VGrXsds7jY
+CNN:  https://colab.research.google.com/drive/1bvo0Ab0oloxMfZdMhSWh3OTbp8WWqGog
